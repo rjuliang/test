@@ -1,3 +1,10 @@
+*{
+  box-sizing: border-box;
+  font-family: Arial;
+  font-size: 150%;
+  
+}
+
 body {
   max-width: 1000px;
   margin: 0 auto;
