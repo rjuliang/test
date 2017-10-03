@@ -1,7 +1,7 @@
 *{
   box-sizing: border-box;
   font-family: Arial;
-  font-size: 150%;
+  font-size: 100%;
 }
 
 body {
@@ -12,6 +12,19 @@ body {
 form {
   width: 640px;
   margin: 0 auto;
+  border: 3px solid blue;
+}
+
+label{
+  display: block;
+}
+
+.required{
+  background-color: : red;
+}
+
+input{
+  display: block;
 }
 
 img {
