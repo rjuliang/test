@@ -2,7 +2,6 @@
   box-sizing: border-box;
   font-family: Arial;
   font-size: 150%;
-  
 }
 
 body {
@@ -16,6 +15,6 @@ form {
 }
 
 img {
-  display: block;
+  display: none;
   margin: 0 auto;
 }
