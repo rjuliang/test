@@ -20,7 +20,7 @@ label{
 }
 
 .required{
-  background-color: red;
+  border-color: red;
 }
 
 input{
