@@ -17,10 +17,7 @@ form {
 
 label{
   display: block;
-}
-
-.required{
-  border-color: red;
+  color: red;
 }
 
 input{
@@ -30,4 +27,12 @@ input{
 img {
   display: block;
   margin: 0 auto;
+}
+@media screen and (min-width: 600px){
+  *{
+    font-size: 90%;
+  }
+  img {
+    max-width: 100%;
+  }
 }
